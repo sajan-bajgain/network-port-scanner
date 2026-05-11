@@ -16,7 +16,7 @@ A Python-based network port scanner that scans hosts for open TCP ports, detects
 - Python
 - Sockets
 - Threading
-- (Optional) Nmap integration
+- Nmap integration
 
 ---
 
